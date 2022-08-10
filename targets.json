@@ -1,0 +1,22 @@
+{
+	"signatures": [
+		{
+			"keyid": "9e515400f014c4bc98987e79a34a07d7a4e1f8bba5a2ea12d870558676d17b68",
+			"sig": "ec24f59ccc8cbda94e53cbbb2612db3d6e0e15e3d701562be9e816418a657db7baad38150aa95fa49d07c88ce157f6b887dd2e9503cc3c41d2f80d335009e900"
+		}
+	],
+	"signed": {
+		"_type": "targets",
+		"version": 1,
+		"spec_version": "1.0.31",
+		"expires": "2022-11-15T18:41:01Z",
+		"targets": {
+			"KOLANICH@GitHub.tsv": {
+				"length": 7348,
+				"hashes": {
+					"sha256": "0c4eb53f90b4e07cea564e36d84f095168ac41e2ee4f81343362c468800b0c12"
+				}
+			}
+		}
+	}
+}
